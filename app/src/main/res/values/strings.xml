@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meals App</string>
+    <string name="mealsApp">Meals App</string>
+    <string name="allCategoryAppBarText">All Category</string>
+    <string name="mealsByCategoryAppBarText">Meals By Category</string>
+    <string name="mealDetailsAppBarText">Meal Details</string>
+</resources>
